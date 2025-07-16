@@ -1,1 +1,3 @@
 # AI-Powered-Image-Captioning-for-Enhanced-Accessibility-Eye-for-the-Blind-
+
+Developed an AI-powered image captioning system utilizing a TensorFlow/Keras-based Encoder-Decoder architecture with attention mechanisms to generate descriptive text for images, aimed at assisting visually impaired individuals. Achieved a strong BLEU-4 score of 28.42% on the Flickr8K test dataset, demonstrating high accuracy in generating relevant, fluent, and grammatically sound descriptions. Successfully delivered the project as the second fastest within the development batch, showcasing strong analytical skills and efficient project execution. This initiative underscores a commitment to leveraging machine learning for meaningful social impact and enhanced accessibility.
